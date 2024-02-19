@@ -4,7 +4,7 @@
   --font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   --accent: rgb(29, 185, 204);
   --accent2: rgb(255, 165, 62);
-  --font-color: rgb(239, 251, 255);
+  --font-color: rgb(227, 239, 243);
 }
 
 body, html {
@@ -20,7 +20,7 @@ header {
   height: 50px;
   width: 100%;
   background-color: var(--background);
-  border-bottom: 1px solid var(--border);
+  border-bottom: 3px solid var(--accent);
   z-index: 1;
 }
 
